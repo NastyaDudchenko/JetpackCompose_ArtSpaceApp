@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Art Space App</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="art_title_first">1. Lorem ipsum dolor sit amet</string>
+    <string name="art_desc_first">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="art_title_second">2. Lorem ipsum dolor sit amet</string>
+    <string name="art_desc_second">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="art_title_third">3. Lorem ipsum dolor sit amet</string>
+    <string name="art_desc_third">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
 </resources>
